@@ -15,9 +15,9 @@
 	<ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
 		<Reference Include="Microsoft.CSharp" />
 	</ItemGroup>
-
+	
 	<ItemGroup>
-	  <ProjectReference Include="..\..\src\DynamicExpresso.Core\DynamicExpresso.Core.csproj" />
+	  <ProjectReference Include="..\..\src\DynamicExpresso.Core\DynamicExpressoVisiology.Core.csproj" />
 	</ItemGroup>
 	
 </Project>
